@@ -1,0 +1,10 @@
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Fretes\bin\Debug\AspNetVS2017.Capitulo01.Fretes.exe.config
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Fretes\bin\Debug\AspNetVS2017.Capitulo01.Fretes.exe
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Fretes\bin\Debug\AspNetVS2017.Capitulo01.Fretes.pdb
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Fretes\obj\Debug\AspNetVS2017.Capitulo01.Fretes.csprojResolveAssemblyReference.cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Fretes\obj\Debug\AspNetVS2017.Capitulo01.Fretes.FretesForm.resources
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Fretes\obj\Debug\AspNetVS2017.Capitulo01.Fretes.Properties.Resources.resources
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Fretes\obj\Debug\AspNetVS2017.Capitulo01.Fretes.csproj.GenerateResource.Cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Fretes\obj\Debug\AspNetVS2017.Capitulo01.Fretes.csproj.CoreCompileInputs.cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Fretes\obj\Debug\AspNetVS2017.Capitulo01.Fretes.exe
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Fretes\obj\Debug\AspNetVS2017.Capitulo01.Fretes.pdb

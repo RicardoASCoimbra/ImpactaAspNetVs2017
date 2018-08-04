@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<veiculos>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>ac51a2ee-0986-4277-ab3f-ea3604154b64</Id>
+    <Placa>XYZ2222</Placa>
+    <Ano>2014</Ano>
+    <Observacao>Observação</Observacao>
+    <Modelo>
+      <Id>1</Id>
+      <Nome>Argo</Nome>
+      <Marca>
+        <Id>1</Id>
+        <Nome>Fiat</Nome>
+      </Marca>
+    </Modelo>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Flex</Combustivel>
+    <Cambio>Manual</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>2f5db83f-5dd5-47c5-98cb-086a8f36d7e1</Id>
+    <Placa>44444</Placa>
+    <Ano>2002</Ano>
+    <Observacao>hhhhhhhhhhhhhh</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Manual</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>6fd56665-6cf3-468b-a84c-09f08440328f</Id>
+    <Placa>44444</Placa>
+    <Ano>2002</Ano>
+    <Observacao>hhhhhhhhhhhhhh</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Manual</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>dd215151-df31-40e6-8739-b5bc44e0fda8</Id>
+    <Placa>44444</Placa>
+    <Ano>2002</Ano>
+    <Observacao>hhhhhhhhhhhhhh</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Manual</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>4c3b7f0b-908f-4ac9-b076-a7953ddc5d13</Id>
+    <Placa>44444</Placa>
+    <Ano>2002</Ano>
+    <Observacao>hhhhhhhhhhhhhh</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Manual</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>515d55e7-5e9e-4881-b784-95a84e19f372</Id>
+    <Placa>44444</Placa>
+    <Ano>2002</Ano>
+    <Observacao>hhhhhhhhhhhhhh</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Manual</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>a0814240-7d66-4d00-ba19-89ce2183ab1a</Id>
+    <Placa>dddd</Placa>
+    <Ano>2002</Ano>
+    <Observacao>eu</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Automatico</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>81807036-6370-45bd-96c9-7e1db110f816</Id>
+    <Placa>44444</Placa>
+    <Ano>2002</Ano>
+    <Observacao>çççç</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Manual</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>40146fe6-6ba3-480a-9b0f-e0ab7d57216c</Id>
+    <Placa>44444</Placa>
+    <Ano>2002</Ano>
+    <Observacao>çççç</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Manual</Cambio>
+  </Veiculo>
+</veiculos>

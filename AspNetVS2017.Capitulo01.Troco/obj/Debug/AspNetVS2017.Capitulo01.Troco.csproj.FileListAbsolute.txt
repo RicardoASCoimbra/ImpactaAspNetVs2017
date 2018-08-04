@@ -1,0 +1,10 @@
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Troco\bin\Debug\AspNetVS2017.Capitulo01.Troco.exe.config
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Troco\bin\Debug\AspNetVS2017.Capitulo01.Troco.exe
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Troco\bin\Debug\AspNetVS2017.Capitulo01.Troco.pdb
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Troco\obj\Debug\AspNetVS2017.Capitulo01.Troco.Properties.Resources.resources
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Troco\obj\Debug\AspNetVS2017.Capitulo01.Troco.TrocoForm.resources
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Troco\obj\Debug\AspNetVS2017.Capitulo01.Troco.csproj.GenerateResource.Cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Troco\obj\Debug\AspNetVS2017.Capitulo01.Troco.csproj.CoreCompileInputs.cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Troco\obj\Debug\AspNetVS2017.Capitulo01.Troco.exe
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Troco\obj\Debug\AspNetVS2017.Capitulo01.Troco.pdb
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Troco\obj\Debug\AspNetVS2017.Capitulo01.Troco.csprojResolveAssemblyReference.cache

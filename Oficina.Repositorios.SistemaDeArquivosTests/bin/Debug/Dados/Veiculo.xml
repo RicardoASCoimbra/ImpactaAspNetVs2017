@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<veiculos>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>ac51a2ee-0986-4277-ab3f-ea3604154b64</Id>
+    <Placa>XYZ2222</Placa>
+    <Ano>2014</Ano>
+    <Observacao>Observação</Observacao>
+    <Modelo>
+      <Id>1</Id>
+      <Nome>Argo</Nome>
+      <Marca>
+        <Id>1</Id>
+        <Nome>Fiat</Nome>
+      </Marca>
+    </Modelo>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Flex</Combustivel>
+    <Cambio>Manual</Cambio>
+  </Veiculo>
+</veiculos>

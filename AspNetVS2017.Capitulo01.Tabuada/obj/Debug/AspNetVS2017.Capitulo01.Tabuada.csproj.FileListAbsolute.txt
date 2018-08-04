@@ -1,0 +1,10 @@
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Tabuada\bin\Debug\AspNetVS2017.Capitulo01.Tabuada.exe.config
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Tabuada\bin\Debug\AspNetVS2017.Capitulo01.Tabuada.exe
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Tabuada\bin\Debug\AspNetVS2017.Capitulo01.Tabuada.pdb
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Tabuada\obj\Debug\AspNetVS2017.Capitulo01.Tabuada.csprojResolveAssemblyReference.cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Tabuada\obj\Debug\AspNetVS2017.Capitulo01.Tabuada.Properties.Resources.resources
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Tabuada\obj\Debug\AspNetVS2017.Capitulo01.Tabuada.TabuadaForm.resources
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Tabuada\obj\Debug\AspNetVS2017.Capitulo01.Tabuada.csproj.GenerateResource.Cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Tabuada\obj\Debug\AspNetVS2017.Capitulo01.Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Tabuada\obj\Debug\AspNetVS2017.Capitulo01.Tabuada.exe
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo01.Tabuada\obj\Debug\AspNetVS2017.Capitulo01.Tabuada.pdb

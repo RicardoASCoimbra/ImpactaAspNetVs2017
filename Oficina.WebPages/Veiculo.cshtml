@@ -1,0 +1,156 @@
+﻿@using Oficina.WebPages;
+@{var _veiculoAplicacao = new VeiculoAplicacao();
+    if (IsPost)
+    {
+        _veiculoAplicacao.Inserir();
+    }
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Cadastro de veículos</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <style>
+        body {
+            font-family: "Roboto", sans-serif;
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #f3f3f3;
+            flex-direction: column;
+        }
+
+        label {
+            min-width: 100px;
+            display: inline-block;
+        }
+
+        select {
+            min-width: 400px;
+            min-height: 24px;
+            margin-bottom: 5px;
+        }
+
+        input {
+            min-width: 396px;
+            min-height: 24px;
+            margin-bottom: 5px;
+        }
+
+            input[type=submit] {
+                width: 503px;
+            }
+
+        textarea {
+            min-width: 497px;
+        }
+
+        .gravar {
+            color: black;
+            background-color: aquamarine;
+            font-weight: bold;
+        }
+        #mensagemErro {
+            height: 40px;
+            background-color: #dc3545;
+            margin-bottom: 10px;
+            color: white;
+            text-align: center;
+            vertical-align: middle;
+            line-height: 40px;
+        }
+    </style>
+</head>
+<body>
+    
+    <h1>Cadastro de veiculo</h1>
+    <hr />
+    <form method="post">
+        <label for="marca">Marca</label>
+        <select name="marca " id="marca" onchange="obterModelos(this.value)">
+            <option value="">Selecione</option>
+            @foreach (var marca in _veiculoAplicacao.Marcas)
+            {
+                <option value="@marca.Id" selected="@Convert.ToBoolean(marca.Id.ToString() == _veiculoAplicacao.MarcaSelecionada)">@marca.Nome</option>
+            }
+        </select>
+        <br />
+        <label for="modelo">Modelos</label>
+        <select name="modelo " id="modelo">
+            <option value="">Selecione</option>
+            @foreach (var modelo in _veiculoAplicacao.Modelos)
+            {
+                <option value="@modelo.Id">@modelo.Nome</option>
+            }
+        </select>
+        <br />
+        <label for="cor">Cor</label>
+        <select id="cor" name="cor">
+            <option value="">Selecione</option>
+            @foreach (var cor in _veiculoAplicacao.Cores)
+            {
+                <option value="@cor.Id">@cor.Nome</option>
+            }
+        </select>
+        <br />
+        <label for="placa">Placa</label>
+        <input id="placa" type="text" name="placa" value="@Request.Form["placa"]" />
+        <br />
+
+        <label for="ano">Ano</label>
+        <input id="ano" type="text" name="ano" value="@Request.Form["ano"]" />
+        <br />
+
+        <label for="combustivel">Combustível</label>
+        <select id="combustivel" name="combustivel">
+            <option value="">Selecione</option>
+            @foreach (var combustivel in _veiculoAplicacao.Combustiveis)
+            {
+                @*<option selected="@Convert.ToBoolean(Convert.ToInt32(combustivel).ToString() == Request.Form["combustivel"])"
+                    value="@Convert.ToInt32(combustivel)">*@
+                <option value="@((int)combustivel)">
+                    @combustivel
+                </option>
+            }
+        </select>
+        <br />
+
+        <label for="cambio">Câmbio</label>
+        <select id="cambio" name="cambio">
+            <option value="">Selecione</option>
+            @foreach (var cambio in _veiculoAplicacao.Cambios)
+            {
+                <option value="@((int)cambio)">@cambio</option>
+            }
+        </select>
+        <br />
+        <label for="observacao">Observação</label>
+        <br />
+        <textarea name="observacao" cols="40" rows="10"></textarea>
+        <br />
+
+        <input id="submit" type="submit" name="gravar" value="Gravar" class="gravar"/>
+    </form>
+
+    <script type="text/javascript">
+        function obterModelos(marcaId) {
+            const nomePagina = document.location.pathname;
+            document.location.href = nomePagina + "?marcaId=" + marcaId;
+        }
+
+        function exibirMensagem() {
+            var params = (new URL(document.location)).searchParams;
+            var mensagem = params.get("mensagem");
+
+            if (mensagem) {
+                alert(mensagem);
+                document.location.href = "Veiculo";
+            }
+        }
+    </script>
+
+</body>
+</html>

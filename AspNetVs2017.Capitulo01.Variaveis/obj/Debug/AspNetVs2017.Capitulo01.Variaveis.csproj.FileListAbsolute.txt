@@ -1,0 +1,10 @@
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVs2017.Capitulo01.Variaveis\bin\Debug\AspNetVs2017.Capitulo01.Variaveis.exe.config
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVs2017.Capitulo01.Variaveis\bin\Debug\AspNetVs2017.Capitulo01.Variaveis.exe
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVs2017.Capitulo01.Variaveis\bin\Debug\AspNetVs2017.Capitulo01.Variaveis.pdb
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVs2017.Capitulo01.Variaveis\obj\Debug\AspNetVs2017.Capitulo01.Variaveis.csprojResolveAssemblyReference.cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVs2017.Capitulo01.Variaveis\obj\Debug\AspNetVs2017.Capitulo01.Variaveis.Properties.Resources.resources
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVs2017.Capitulo01.Variaveis\obj\Debug\AspNetVs2017.Capitulo01.Variaveis.VariaveisForm.resources
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVs2017.Capitulo01.Variaveis\obj\Debug\AspNetVs2017.Capitulo01.Variaveis.csproj.GenerateResource.Cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVs2017.Capitulo01.Variaveis\obj\Debug\AspNetVs2017.Capitulo01.Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVs2017.Capitulo01.Variaveis\obj\Debug\AspNetVs2017.Capitulo01.Variaveis.exe
+C:\Users\vavelino\source\repos\ImpactaAspNetVs2017\AspNetVs2017.Capitulo01.Variaveis\obj\Debug\AspNetVs2017.Capitulo01.Variaveis.pdb
