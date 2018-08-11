@@ -71,28 +71,33 @@ namespace Oficina.WebPages
             catch (FileNotFoundException ex)
             {
                 HttpContext.Current.Items.Add("MensagemErro", $"O arquivo {ex.FileName} não foi encontrado");
-                
+
+                throw;
             }
             catch (UnauthorizedAccessException )
             {
                 HttpContext.Current.Items.Add("MensagemErro", "Arquivo sem permissão de gravação.");
-                
+
+                throw;
             }
             catch (DirectoryNotFoundException )
             {
                 HttpContext.Current.Items.Add("MensagemErro", "O caminho do arquivo não foi encontrada.");
-                
+
+                throw;
             }
-            catch (Exception )
+            catch (Exception ex)
             {
                 HttpContext.Current.Items.Add("MensagemErro", "Ooops! Ocorreu um erro e sua ação não foi realizada.");
 
                 //logar o objeto de exception ex.
-                //throw;
+                //log4net
+                throw;
             }
             finally
             {
-                // finally: chamado sempre, independente de erro ou sucesso. É executado mesmo se há um return no código.
+                // finally: ie executado sempre, independente de erro ou sucesso. É executado mesmo se há um return no código.
+                // finally: É executado mesmo se há um return no código.
             }
         }
 

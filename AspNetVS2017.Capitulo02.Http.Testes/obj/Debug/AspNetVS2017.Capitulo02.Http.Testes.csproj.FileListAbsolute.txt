@@ -1,0 +1,16 @@
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\bin\Debug\AspNetVS2017.Capitulo02.Http.Testes.dll
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\bin\Debug\AspNetVS2017.Capitulo02.Http.Testes.pdb
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\obj\Debug\AspNetVS2017.Capitulo02.Http.Testes.csprojResolveAssemblyReference.cache
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\obj\Debug\AspNetVS2017.Capitulo02.Http.Testes.csproj.CoreCompileInputs.cache
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\obj\Debug\AspNetVS2017.Capitulo02.Http.Testes.dll
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\AspNetVS2017.Capitulo02.Http.Testes\obj\Debug\AspNetVS2017.Capitulo02.Http.Testes.pdb

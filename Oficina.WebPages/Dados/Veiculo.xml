@@ -116,4 +116,69 @@
     <Combustivel>Gasolina</Combustivel>
     <Cambio>Manual</Cambio>
   </Veiculo>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>6c63b213-5233-4bf8-959c-eb787c338837</Id>
+    <Placa>44444</Placa>
+    <Ano>2002</Ano>
+    <Observacao>h</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Manual</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>81b3b513-1cbb-4645-8df4-4e0856290d63</Id>
+    <Placa>FFF 5555</Placa>
+    <Ano>2000</Ano>
+    <Observacao>k</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Manual</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>45b42d3f-4d16-4f0f-9ff8-455968e53126</Id>
+    <Placa>44444</Placa>
+    <Ano>2002</Ano>
+    <Observacao>ggggg</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Manual</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>cc6431ce-4225-4418-a568-bc09ce41b597</Id>
+    <Placa>FFF 5555</Placa>
+    <Ano>2000</Ano>
+    <Observacao>ç</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Manual</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>f7deac31-b30b-49c8-afd8-2e40cda8bd5a</Id>
+    <Placa>FFF 5555</Placa>
+    <Ano>2000</Ano>
+    <Observacao>k</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Manual</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
 </veiculos>

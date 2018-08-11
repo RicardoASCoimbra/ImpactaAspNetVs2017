@@ -23,3 +23,11 @@ C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\ImpactaAspNetVs2017\Oficina.Rep
 C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\ImpactaAspNetVs2017\Oficina.Repositorios.SistemaDeArquivos\obj\Debug\Oficina.Repositorios.SistemaDeArquivos.csproj.CoreCompileInputs.cache
 C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\ImpactaAspNetVs2017\Oficina.Repositorios.SistemaDeArquivos\obj\Debug\Oficina.Repositorios.SistemaDeArquivos.dll
 C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\ImpactaAspNetVs2017\Oficina.Repositorios.SistemaDeArquivos\obj\Debug\Oficina.Repositorios.SistemaDeArquivos.pdb
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\Oficina.Repositorios.SistemaDeArquivos\bin\Debug\Oficina.Repositorios.SistemaDeArquivos.dll
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\Oficina.Repositorios.SistemaDeArquivos\bin\Debug\Oficina.Repositorios.SistemaDeArquivos.pdb
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\Oficina.Repositorios.SistemaDeArquivos\bin\Debug\Oficina.Dominio.dll
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\Oficina.Repositorios.SistemaDeArquivos\bin\Debug\Oficina.Dominio.pdb
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\Oficina.Repositorios.SistemaDeArquivos\obj\Debug\Oficina.Repositorios.SistemaDeArquivos.csprojResolveAssemblyReference.cache
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\Oficina.Repositorios.SistemaDeArquivos\obj\Debug\Oficina.Repositorios.SistemaDeArquivos.csproj.CoreCompileInputs.cache
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\Oficina.Repositorios.SistemaDeArquivos\obj\Debug\Oficina.Repositorios.SistemaDeArquivos.dll
+C:\Users\sa5117\source\repos\ImpactaAspNetVs2017\Oficina.Repositorios.SistemaDeArquivos\obj\Debug\Oficina.Repositorios.SistemaDeArquivos.pdb

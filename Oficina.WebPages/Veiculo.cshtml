@@ -1,9 +1,6 @@
 ﻿@using Oficina.WebPages;
-@{var _veiculoAplicacao = new VeiculoAplicacao();
-    if (IsPost)
-    {
-        _veiculoAplicacao.Inserir();
-    }
+@{
+    var _veiculoAplicacao = new VeiculoAplicacao();
 }
 <!DOCTYPE html>
 
@@ -53,9 +50,10 @@
             background-color: aquamarine;
             font-weight: bold;
         }
+
         #mensagemErro {
             height: 40px;
-            background-color: #dc3545;
+            background-color: #dc3545;        
             margin-bottom: 10px;
             color: white;
             text-align: center;
@@ -64,10 +62,24 @@
         }
     </style>
 </head>
-<body>
-    
+<body onload="exibirMensagem();">
+
     <h1>Cadastro de veiculo</h1>
     <hr />
+    @{
+        if (IsPost)
+        {
+            try
+            {
+                _veiculoAplicacao.Inserir();
+                Response.Redirect("Veiculo?mensagem=Veículo cadastrado com sucesso.");
+            }
+            catch
+            {
+                <div id="mensagemErro">@HttpContext.Current.Items["MensagemErro"]</div>
+            }
+        }
+    }
     <form method="post">
         <label for="marca">Marca</label>
         <select name="marca " id="marca" onchange="obterModelos(this.value)">
@@ -83,7 +95,7 @@
             <option value="">Selecione</option>
             @foreach (var modelo in _veiculoAplicacao.Modelos)
             {
-                <option value="@modelo.Id">@modelo.Nome</option>
+                <option value="@modelo.Id" selected="@Convert.ToBoolean(modelo.Id.ToString() == Request.Form["modelo"])">@modelo.Nome</option>
             }
         </select>
         <br />
@@ -92,7 +104,7 @@
             <option value="">Selecione</option>
             @foreach (var cor in _veiculoAplicacao.Cores)
             {
-                <option value="@cor.Id">@cor.Nome</option>
+                <option value="@cor.Id" selected="@Convert.ToBoolean(cor.Id.ToString() == Request.Form["cor"])">@cor.Nome</option>
             }
         </select>
         <br />
@@ -109,9 +121,9 @@
             <option value="">Selecione</option>
             @foreach (var combustivel in _veiculoAplicacao.Combustiveis)
             {
-                @*<option selected="@Convert.ToBoolean(Convert.ToInt32(combustivel).ToString() == Request.Form["combustivel"])"
-                    value="@Convert.ToInt32(combustivel)">*@
-                <option value="@((int)combustivel)">
+                <option selected="@Convert.ToBoolean(Convert.ToInt32(combustivel).ToString() == Request.Form["combustivel"])"
+                    value="@Convert.ToInt32(combustivel)">
+                @*<option value="@((int)combustivel)">*@
                     @combustivel
                 </option>
             }
@@ -132,7 +144,7 @@
         <textarea name="observacao" cols="40" rows="10"></textarea>
         <br />
 
-        <input id="submit" type="submit" name="gravar" value="Gravar" class="gravar"/>
+        <input id="submit" type="submit" name="gravar" value="Gravar" class="gravar" />
     </form>
 
     <script type="text/javascript">
@@ -142,8 +154,9 @@
         }
 
         function exibirMensagem() {
-            var params = (new URL(document.location)).searchParams;
-            var mensagem = params.get("mensagem");
+
+            const params = (new URL(document.location)).searchParams;
+            const mensagem = params.get("mensagem");
 
             if (mensagem) {
                 alert(mensagem);
